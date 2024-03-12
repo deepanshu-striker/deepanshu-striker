@@ -10,4 +10,5 @@ def add_numbers(x, y):
         int: The sum of x and y.
 
     """
+    print (
     return x + y
